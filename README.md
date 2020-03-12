@@ -2,6 +2,8 @@
 
 This is a submodule providing all necessary data and helper scripts for [Age Estimator](https://github.com/oopDaniel/AgeEstimator).
 
+_NOTE: the data lives in the `data` branch_
+
 ## Decompress the raw data
 
 > Raw images
